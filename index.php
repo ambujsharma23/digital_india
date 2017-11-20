@@ -91,7 +91,7 @@ font-style: italic;
                         <p class="survey-desc">
                             PANIIM Conference organizing committee is hosting India's first ever exclusive "PAN-IIM World Management Conference Awards 2017" during 5th PAN-IIM World Management Conference from December 14-16, 2017 at IIM Lucknow Campus, Lucknow. During the event, PAN IIM Conference is honouring Digital India stakeholders who are playing a significant role in transforming India into a digitally empowered nation. The focus is to felicitate unsung heroes and champions who are harnessing the power of Digital India through innovation by transforming business processes, improving delivery of public services and creating a positive impact on society by connecting the unconnected.  Here is a link to the <a href="eligibility_criteria.html" target="_blank">eligibility criteria: </a>
                             <br /><br />
-                            The deadline for submission of award entries is <b>November 20, 2017 (11.59 pm, IST).</b> ONLY ONLINE ENTRIES ARE ACCEPTED. Entries received after the deadline will not be considered.
+                            The deadline for submission of award entries is <b>November 25, 2017 (11.59 pm, IST).</b> ONLY ONLINE ENTRIES ARE ACCEPTED. Entries received after the deadline will not be considered.
                             <br />
                             <span style="color:red;">* Required</span>
                         </p>
@@ -105,7 +105,7 @@ font-style: italic;
                         <p class="survey-desc">
                             PANIIM Conference organizing committee is hosting India's first ever exclusive "PAN-IIM World Management Conference Awards 2017" during 5th PAN-IIM World Management Conference from December 14-16, 2017 at IIM Lucknow Campus, Lucknow. During the event, PAN IIM Conference is honouring Digital India stakeholders who are playing a significant role in transforming India into a digitally empowered nation. The focus is to felicitate unsung heroes and champions who are harnessing the power of Digital India through innovation by transforming business processes, improving delivery of public services and creating a positive impact on society by connecting the unconnected.  Here is a link to the <a href="eligibility_criteria.html" target="_blank">eligibility criteria: </a>
                             <br /><br />
-                            The deadline for submission of award entries is <b>November 20, 2017 (11.59 pm, IST). </b> ONLY ONLINE ENTRIES ARE ACCEPTED. Entries received after the deadline will not be considered.
+                            The deadline for submission of award entries is <b>November 25, 2017 (11.59 pm, IST). </b> ONLY ONLINE ENTRIES ARE ACCEPTED. Entries received after the deadline will not be considered.
                             <br />
                             <span style="color:red;">* Required</span>
 
